@@ -1,0 +1,12 @@
+Licença de Uso e Aviso de Direitos Autorais
+Este jogo foi desenvolvido exclusivamente para fins educacionais e de estudo em programação.
+
+O objetivo do projeto é aprender e compartilhar conhecimento, sem qualquer finalidade lucrativa.
+
+O autor não pretende vender, distribuir comercialmente ou lucrar com cópias deste jogo.
+
+Algumas imagens, músicas e outros conteúdos utilizados no jogo são protegidos por direitos autorais de terceiros e são usados aqui apenas para fins de demonstração e aprendizado.
+
+Este uso é estritamente não comercial e não infringe os direitos de propriedade intelectual de seus legítimos proprietários.
+
+Por favor, respeite esta condição e utilize o jogo apenas para os fins educacionais mencionados, jogue para você mesmo :).
