@@ -20,7 +20,7 @@ Se fosse necessário destacar todas as funcionalidades, seria preciso criar uma 
 
 ## DESEJA JOGAR O JOGO?
 
-Caso queira testar e conhecer o jogo `SnakeGame`, ele está disponível para download nesse link AQUI! -> [⚠️(Download expirado, voltará em breve)](#).
+Caso queira testar e conhecer o jogo `SnakeGame`, ele está disponível para download nesse link AQUI! -> [⚠️(Dwonload)](https://www.mediafire.com/file/z4cksa8hadbrti5/Install_SnakeGame.exe/file).
 
 > ⚠️ **O Windows pode reconhecer executáveis de pessoas físicas como ameaças devido à falta de certificação digital e baixa reputação. Isso ocorre porque o sistema SmartScreen e as ferramentas antivírus são mais rigorosos com arquivos que não têm uma assinatura confiável ou que são distribuídos fora de plataformas conhecidas. Mas não se preocupe, o arquivo contém apenas o jogo, e o código do jogo está logo acima! PARA BAIXAR, CLIQUE EM (EXECUTAR ASSIM MESMO!)**
 
